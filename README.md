@@ -1,5 +1,6 @@
 # User-Card-Grid
-- This project is a user card grid that displays user information in a responsive grid layout. It is built using HTML, CSS, and JavaScript
+- This project is a user card grid that displays user information in a responsive grid layout.
+- It is built using HTML, CSS, and JavaScript
 
 # Features
 - Displays user information in a grid layout
