@@ -12,4 +12,4 @@
 If you have any questions or suggestions, feel free to reach out to the me .
 
 - Name: ANKIT KUMAR JHA
-- Email: ankitjha1403@gmail.com Thank you for using our to-do list application!
+- Email: ankitjha1403@gmail.com Thank you for using our User Card Grid application!
